@@ -1,5 +1,7 @@
 
-/*Skills Redlining  */
+
+
+/*Skills  */
     h1 {
 font-family: 'Niramit', 'roboto';
 border: solid #9521f3;
@@ -53,7 +55,7 @@ img {
      width: 25%;
 }
 
-/* Works Redlining */
+/* Works */
 
 .layout {
   font-family: 'Niramit', 'roboto';
@@ -81,7 +83,6 @@ justify-content: center;
 
 
 .work1 {
-     border: solid red;
      padding: 2px;
      font-size: 36px;
 }
@@ -98,7 +99,6 @@ img {
 
 
 .paragraph {
-     border: solid red;
      padding: 40px;
      font-size: 16px;
      margin: 5%;
@@ -107,14 +107,11 @@ img {
 }
 
 .work2 {
-     
-     border: solid red;
      padding: 2px;
      font-size: 36px;
 }
 
 .redline {
-     border: solid red;
      font-family: 'Niramit', 'roboto';
      font-size: 16px;
      padding: 2px;
